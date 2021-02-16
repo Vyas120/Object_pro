@@ -1,0 +1,20 @@
+body{
+    background-size: cover;
+
+}
+
+.heading{
+    width: 100%;
+    font-size: x-large;
+    background-color: tomato;
+    margin: 0px;
+    color: whitesmoke;
+}
+
+.href{
+    background-color: tomato;
+    margin-top: 30px;
+    border-radius: 20px;
+    width: 150px;
+    color: whitesmoke;
+}
